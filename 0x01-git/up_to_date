@@ -1,1 +1,2 @@
-git merge feature_branch
+git pull
+git merge_feature branch
